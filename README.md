@@ -25,8 +25,8 @@ To simulate basic IoT data monitoring and perform exploratory analysis on sensor
 
 ## ▶️ How to Run
 
-1. Open this notebook directly in **Google Colab**  
-2. Click the button below to launch it:
+You can open and run this notebook directly in **Google Colab** using the link below:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyansmagdum-prog/IoT-Sensor-Data-Analysis/blob/main/iot_sensor_analysis.ipynb)
+
 
